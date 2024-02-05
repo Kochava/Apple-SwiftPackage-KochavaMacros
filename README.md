@@ -1,5 +1,6 @@
 # Apple-SwiftPackage-KochavaMacros
 
+[![CodeFactor](https://www.codefactor.io/repository/github/Kochava/Apple-Swiftpackage-KochavaNetworking/badge)](https://www.codefactor.io/repository/github/Kochava/Apple-SwiftPackage-KochavaMacros)
 [![Releases](https://img.shields.io/github/v/release/kochava/Apple-SwiftPackage-KochavaMacros?include_prereleases&sort=semver)](https://github.com/Kochava/Apple-SwiftPackage-KochavaMacros/releases)
 
 ## KochavaMacros
