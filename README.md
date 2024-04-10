@@ -11,7 +11,7 @@ The KochavaMacros swift package contains a macros plugin designed for the Kochav
 
 ## Built on
 
-* Xcode 15.2
+* Xcode 15.3
 
 ## Platforms
 
