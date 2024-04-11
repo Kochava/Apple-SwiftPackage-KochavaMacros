@@ -20,7 +20,7 @@ The KochavaMacros swift package contains a macros plugin designed for the Kochav
 * macOS 10.15
 * tvOS 13.0
 * visionOS 1.0
-* watchOS 6.0
+* watchOS 7.0
 
 ## Integration
 
