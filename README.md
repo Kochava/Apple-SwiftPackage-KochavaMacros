@@ -17,7 +17,7 @@ The KochavaMacros swift package contains a macros plugin designed for the Kochav
 
 * iOS 13.0
 * macCatalyst 13.0
-* macOS 10.15
+* macOS 12.0
 * tvOS 13.0
 * visionOS 1.0
 * watchOS 7.0
