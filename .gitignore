@@ -1,9 +1,22 @@
+
+#
+# .gitignore
+# Apple-SwiftPackage-KochavaMacros
+#
+# Created by John Bushnell on 4/29/2025
+# Copyright © 2013 - 2025 Kochava, Inc.  All rights reserved.
+#
+
+
+
 .DS_Store
 /.build
 /Packages
 xcuserdata/
 DerivedData/
+Release Notes.md
+semgrep.sarif
+
 .swiftpm/configuration/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
-semgrep.sarif
